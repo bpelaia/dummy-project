@@ -1,0 +1,5 @@
+Path;Class.Method;#Line;CWE ID;Severity;Rule Description;Status;Note;@VulnID
+"Program.java";"Program";"5";"563";"1";"Field|Costant is never used or is only assigned but its value is never used";"Not An Issue";"";"CWE563J2@94b28e";
+"Program.java";"Program";"6";"563";"1";"Field|Costant is never used or is only assigned but its value is never used";"Confirmed";"";"CWE563J2@322a3c";
+"Program.java";"Program";"7";"563";"1";"Field|Costant is never used or is only assigned but its value is never used";"Confirmed";"";"CWE563J2@03dc72";
+"Program.java";"Program";"8";"563";"1";"Field|Costant is never used or is only assigned but its value is never used";"Confirmed";"";"CWE563J2@98cb26";
