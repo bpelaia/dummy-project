@@ -1,5 +1,5 @@
 Path;Class.Method;#Line;CWE ID;Severity;Rule Description;Status;Note;@VulnID
-"Program.java";"Program";"5";"563";"1";"Field|Costant is never used or is only assigned but its value is never used";"Not An Issue";"";"CWE563J2@c13b97";
-"Program.java";"Program";"6";"563";"1";"Field|Costant is never used or is only assigned but its value is never used";"Not An Issue";"JENKINS Note (02/18/2021) Come da Requisito X, non modificabile fino al cambio del requisito.";"CWE563J2@056238";
-"Program.java";"Program";"7";"563";"1";"Field|Costant is never used or is only assigned but its value is never used";"Confirmed";"";"CWE563J2@881ab5";
-"Program.java";"Program";"8";"563";"1";"Field|Costant is never used or is only assigned but its value is never used";"Confirmed";"";"CWE563J2@7a3a88";
+"Program.java";"Program";"5";"563";"1";"Field|Costant is never used or is only assigned but its value is never used";"Not An Issue";"JENKINS Note (02/19/2021) Come da Requisito X";"CWE563J2@5b3683";
+"Program.java";"Program";"6";"563";"1";"Field|Costant is never used or is only assigned but its value is never used";"Confirmed";"";"CWE563J2@fa53d7";
+"Program.java";"Program";"7";"563";"1";"Field|Costant is never used or is only assigned but its value is never used";"Confirmed";"";"CWE563J2@3a2a4a";
+"Program.java";"Program";"8";"563";"1";"Field|Costant is never used or is only assigned but its value is never used";"Confirmed";"";"CWE563J2@1b0929";
